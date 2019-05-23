@@ -79,7 +79,7 @@ getOptionTests({
 });
 ```
 
-For nested properties, use the `.` syntax. For details see [flat-object-keys](https://www.npmjs.com/package/flat-object-keys).
+For nested properties, use the `.` syntax. Additionally, the `*` character is supported as a wildcard for properties. For details see [flat-object-keys](https://www.npmjs.com/package/flat-object-keys).
 
 ## Running the build
 

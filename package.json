@@ -15,7 +15,7 @@
   "main": "lib/getOptionTests.js",
   "dependencies": {
     "assertthat": "3.0.0",
-    "flat-object-keys": "1.0.0",
+    "flat-object-keys": "1.1.0",
     "lodash": "4.17.11"
   },
   "devDependencies": {
