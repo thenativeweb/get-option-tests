@@ -1,0 +1,33 @@
+{
+  "name": "get-option-tests",
+  "version": "0.0.0",
+  "description": "get-option-tests automatically creates Mocha tests for option objects.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Jan-Hendrik Grundhöfer",
+      "email": "jan-hendrik.grundhoefer@thenativeweb.io"
+    }
+  ],
+  "main": "lib/getOptionTests.js",
+  "dependencies": {
+    "assertthat": "3.0.0",
+    "flat-object-keys": "1.0.0",
+    "lodash": "4.17.11"
+  },
+  "devDependencies": {
+    "roboter": "6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/get-option-tests.git"
+  },
+  "keywords": [
+    "mocha",
+    "test"
+  ],
+  "license": "MIT"
+}
