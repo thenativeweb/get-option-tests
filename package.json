@@ -1,6 +1,6 @@
 {
   "name": "get-option-tests",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "get-option-tests automatically creates Mocha tests for option objects.",
   "contributors": [
     {
