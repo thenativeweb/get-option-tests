@@ -16,7 +16,7 @@
   "dependencies": {
     "assertthat": "3.1.0",
     "flat-object-keys": "1.1.0",
-    "lodash": "4.17.14"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "roboter": "6.1.0"
