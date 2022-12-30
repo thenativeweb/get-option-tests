@@ -19,7 +19,7 @@
     "lodash": "4.17.14"
   },
   "devDependencies": {
-    "roboter": "6.1.0"
+    "roboter": "13.2.1"
   },
   "repository": {
     "type": "git",
